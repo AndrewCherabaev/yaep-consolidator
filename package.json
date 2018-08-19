@@ -1,6 +1,6 @@
 {
   "name": "yaep-consolidator",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "CLI app for yaep",
   "main": "index.js",
   "scripts": {
