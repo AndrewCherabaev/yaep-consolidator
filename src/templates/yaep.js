@@ -1,4 +1,4 @@
 var program = require('yaep-consolidator');
 // if you have your own console commands
-	require('./app/console')(program);
+try {require('./app/console')(program);}catch (e){}
 program.parse(process.argv);
